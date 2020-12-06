@@ -5,7 +5,7 @@
 
 ## Welcome to GitHub Pages
 
-$$f(x)=a^Tx.\quad g(x)=\int_a^xf(y)dy,\quad \bra{x}\ket{y}.$$
+[test](./test.md)
 You can use the [editor on GitHub](https://github.com/YinanHuang/MyPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
